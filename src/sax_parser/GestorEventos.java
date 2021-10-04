@@ -3,12 +3,8 @@ package sax_parser;
 
 import java.io.PrintStream;
 import org.xml.sax.helpers.DefaultHandler;
-//import org.xml.sax.helpers.XMLReaderFactory;
-//import org.xml.sax.XMLReader;
-//import org.xml.sax.SAXException;
 import org.xml.sax.Attributes;
-//import javax.xml.parsers.SAXParserFactory;
-//import javax.xml.parsers.SAXParser;
+
 
 class GestorEventos extends DefaultHandler {
 
